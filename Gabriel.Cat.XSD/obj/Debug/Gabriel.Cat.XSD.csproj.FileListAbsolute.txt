@@ -1,6 +1,0 @@
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\bin\Debug\Gabriel.Cat.XSD.dll
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\bin\Debug\Gabriel.Cat.XSD.pdb
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\bin\Debug\Gabriel.Cat.Utilitats.dll
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\bin\Debug\Gabriel.Cat.Utilitats.pdb
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\obj\Debug\Gabriel.Cat.XSD.dll
-c:\users\pingu\documents\visual studio 2015\Projects\Gabriel.Cat.XSD\Gabriel.Cat.XSD\obj\Debug\Gabriel.Cat.XSD.pdb
